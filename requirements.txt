@@ -3,3 +3,4 @@ requests
 pillow
 flask
 werkzeug
+gunicorn==20.1.0
